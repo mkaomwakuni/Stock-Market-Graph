@@ -1,4 +1,5 @@
 # StockMarketGraph Library 📈
+![StockMarketGraph Demo](https://github.com/user-attachments/assets/c8b45ac8-e0fd-46a8-8017-3efe42cac0d5)
 
 ## Overview
 
