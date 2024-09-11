@@ -1,8 +1,10 @@
 # StockMarketGraph Library 📈
+
 <img src="https://github.com/user-attachments/assets/c8b45ac8-e0fd-46a8-8017-3efe42cac0d5" alt="StockMarketGraph Demo" width="300" height="400" />
+
 ## Overview
 
-The **StockMarketGraph** a simple light weight library provides a customizable, animated wavy gradient line chart for visualizing time series data. It offers smooth animations, flexible styling, and easy integration, making it a powerful tool for displaying stock market trends and other financial data.
+The **StockMarketGraph** is a lightweight library that provides a customizable, animated wavy gradient line chart for visualizing time series data. It offers smooth animations, flexible styling, and easy integration, making it a powerful tool for displaying stock market trends and other financial data.
 
 ## Features
 
